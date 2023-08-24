@@ -1,0 +1,28 @@
+<html>
+<head></head>
+
+<body>
+    <h1>My Hobbies</h1>
+    <p>
+        During my time away from developing, i find myself enjoying all the things <br>
+        Cape Town has to offer. Being a World Class African City, I never run out of things <br>
+        to do, below you'll find a list of my favourite activities to do in the Mother City.
+    </p>
+    <hr>
+
+    <ul>
+        <li>Rock Climbing</li>
+        <li>Gyming</li>
+        <li>Hiking</li>
+        <li>Cycling</li>
+        <li>Playing Racket Sports</li>
+        <li>Playing Videogames</li>
+        <li>Playing Poker</li>
+        <li>Going to an Arcade</li>
+    </ul>
+
+    <hr>
+    <a href="../index.html">Return to Home Page</a>
+</body>
+
+</html>
